@@ -1,0 +1,7 @@
+c:\users\myob\documents\visual studio 2010\Projects\TestDrivenDevelopmentByExample\TestDrivenDevelopmentByExample\bin\Debug\TestDrivenDevelopmentByExample.dll
+c:\users\myob\documents\visual studio 2010\Projects\TestDrivenDevelopmentByExample\TestDrivenDevelopmentByExample\bin\Debug\TestDrivenDevelopmentByExample.pdb
+c:\users\myob\documents\visual studio 2010\Projects\TestDrivenDevelopmentByExample\TestDrivenDevelopmentByExample\bin\Debug\nunit.framework.dll
+c:\users\myob\documents\visual studio 2010\Projects\TestDrivenDevelopmentByExample\TestDrivenDevelopmentByExample\bin\Debug\nunit.framework.xml
+c:\users\myob\documents\visual studio 2010\Projects\TestDrivenDevelopmentByExample\TestDrivenDevelopmentByExample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\myob\documents\visual studio 2010\Projects\TestDrivenDevelopmentByExample\TestDrivenDevelopmentByExample\obj\Debug\TestDrivenDevelopmentByExample.dll
+c:\users\myob\documents\visual studio 2010\Projects\TestDrivenDevelopmentByExample\TestDrivenDevelopmentByExample\obj\Debug\TestDrivenDevelopmentByExample.pdb
