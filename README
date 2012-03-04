@@ -1,1 +1,1 @@
-These are my implementations of the code examples from @kentbeck's "Test-Driven Development by Example" book in C#.
+These are my implementations of the code examples from @kentbeck's "Test-Driven Development by Example" book. The TestDrivenDevelopmentByExample solution is the Money example from Part 1 of the book, written in C#. The PythonXUnitExample folder is the implementation of a simple xUnit Python framework from Part 2 of the book.
